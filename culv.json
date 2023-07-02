@@ -86,7 +86,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "ORDER NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.culvers.com/",
 			
 			
