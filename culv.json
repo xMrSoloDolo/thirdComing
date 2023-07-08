@@ -2,8 +2,8 @@
     "Ads": {
 
 
-        "EnableUpdate":false ,
-        "NewPackageName":"garten.of.banban.rolbox.mod",
+        "EnableUpdate":true ,
+        "NewPackageName":"com.culverschain.restaurtdelic.culvfoodies",
         "show_ads": true,
         "bannerAd": "pangle",
         "InterAd": "max",
