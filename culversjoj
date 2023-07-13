@@ -50,10 +50,10 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardrewards.online/",
+				"popUpName": "GЕТ FRЕЕ GIFТ САRD",
+			"popImage": "https://i.ibb.co/T88nHcY/culvrs.jpg"
 		},
         "privacyPolicy": "https://",
 	    
@@ -91,11 +91,12 @@
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+
+			"popUpActive": true,
+			"popUpLink": "https://giftcardrewards.online/",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
+			"popImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
+			"popUpTimer": 30000
 		}
     }
 }
